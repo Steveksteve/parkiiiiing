@@ -1,0 +1,10 @@
+{
+  "name": "etudiant/parking-partage",
+  "description": "Projet Parking Partage",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  }
+}
